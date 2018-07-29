@@ -10,7 +10,6 @@ function multiply(a,b){
 function divide (a,b){
   return a/b
 }
-var inc = 5
-function inc(){
-   inc++
+function inc(a){
+   return a++ 
 }

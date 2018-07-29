@@ -24,7 +24,7 @@ function makeInt(n){
 }
 //I don't know why this test is failing. It works perfectly when I console.log it using repl.it.
 function preserveDecimal(n){
-  parseFloat('2.222')
+  parseFloat(n)
   return n
 }
 //console.log(preserveDecimal('2.222'));

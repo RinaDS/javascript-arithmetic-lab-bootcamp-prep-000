@@ -26,3 +26,6 @@ function preserveDecimal(n){
   return parseFloat(n)
 }
 //console.log(preserveDecimal('2.222'));
+
+function makeInt(n){
+return parseInt(‘0*2328)}

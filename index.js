@@ -11,7 +11,7 @@ function divide (a,b){
   return a/b
 }
 var n = 0;
-function increment(){
+function inc(){
   n++;
   return n++
   return n

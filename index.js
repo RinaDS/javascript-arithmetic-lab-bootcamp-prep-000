@@ -11,8 +11,8 @@ function divide (a,b){
   return a/b
 }
 function inc(number) {
-  var number = 6 
-  console.log(inc ++);
+  number = 6 
+  console.log(number ++);
 }
 
 //it('inc(n) increments n and returns the result', function() {

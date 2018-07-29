@@ -27,5 +27,5 @@ function preserveDecimal(n){
 }
 //console.log(preserveDecimal('2.222'));
 function makeInt2(n){
-return parseInt (string)
+return parseInt (n)
 }

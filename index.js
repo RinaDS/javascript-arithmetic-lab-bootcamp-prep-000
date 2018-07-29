@@ -22,7 +22,7 @@ function makeInt(n){
   parseInt(n, 10);
   return n
 }
-function makeInt(n){
+function preserveDecimal(n){
   parseFloat('80.123999')
   return n
 }

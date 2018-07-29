@@ -10,9 +10,10 @@ function multiply(a,b){
 function divide (a,b){
   return a/b
 }
-function inc(number) {
-  number = 6 
-  console.log(number ++);
+function increment(){
+  var n = 0;
+  n++;
+  return n;
 }
 
 //it('inc(n) increments n and returns the result', function() {

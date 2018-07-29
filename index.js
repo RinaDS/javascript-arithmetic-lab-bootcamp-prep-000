@@ -10,8 +10,10 @@ function multiply(a,b){
 function divide (a,b){
   return a/b
 }
-var number = 10
-function inc(number){
- return number += 
+function inc(a) {
+  inc = 5;
+ return inc ++ 
 }
 
+//it('inc(n) increments n and returns the result', function() {
+ // expect(inc(a)).toEqual(a + 1)

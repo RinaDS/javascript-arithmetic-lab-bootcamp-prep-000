@@ -11,7 +11,7 @@ function divide (a,b){
   return a/b
 }
 function inc(number) {
-  var inc = 6 
+  var number = 6 
   console.log(inc ++);
 }
 

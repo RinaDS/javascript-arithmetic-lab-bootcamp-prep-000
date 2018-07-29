@@ -10,5 +10,6 @@ function multiply(a,b){
 function divide (a,b){
   return a/b
 }
-var num1 = 4;
-num1++;
+function inc(n){
+inc++
+}

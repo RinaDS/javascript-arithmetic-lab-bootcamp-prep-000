@@ -23,6 +23,6 @@ function makeInt(n){
   return n
 }
 function preserveDecimal(n){
-  parseFloat('80.123999')
+  parseFloat('2.2222')
   return n
 }

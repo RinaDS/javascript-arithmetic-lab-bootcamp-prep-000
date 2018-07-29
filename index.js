@@ -18,7 +18,7 @@ function dec(n)
 {
   return n-= 1
 }
-function parseInt(n){
+function makeInt(n){
   var parsed = parseInt(x, base);
   if (isNaN(parsed)) { return 0 }
   return parsed

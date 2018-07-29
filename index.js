@@ -22,3 +22,7 @@ function makeInt(n){
   parseInt(n, 10);
   return n
 }
+function makeInt(n){
+  parseInt('2.2222')
+  return n
+}

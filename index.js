@@ -11,8 +11,8 @@ function divide (a,b){
   return a/b
 }
 function inc(a) {
-  inc = 5;
- return inc ++ 
+  inc = n++
+ console log(inc())
 }
 
 //it('inc(n) increments n and returns the result', function() {

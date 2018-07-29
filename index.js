@@ -10,11 +10,10 @@ function multiply(a,b){
 function divide (a,b){
   return a/b
 }
+var n = 0;
+
 function increment(){
-  var n = 0;
+
   n++;
   return n;
 }
-
-//it('inc(n) increments n and returns the result', function() {
- // expect(inc(a)).toEqual(a + 1)

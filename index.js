@@ -12,5 +12,5 @@ function divide (a,b){
 }
 var inc = 5
 function inc(){
-  return inc++
+   inc++
 }

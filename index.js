@@ -16,5 +16,5 @@ return n+= 1
 }
 function dec(n)
 {
-  return dec-= 1
+  return n-= 1
 }

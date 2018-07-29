@@ -26,6 +26,6 @@ function preserveDecimal(n){
   parseFloat('2.222')
   return n
 }
-//console.log(preserveDecimal('80.123999'));
+//console.log(preserveDecimal('2.222'));
 
   
